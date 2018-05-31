@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsmqServer", "MsmqServer\MsmqServer.csproj", "{1B5F537E-DA57-40A9-ADF8-D544FE9B2AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globals", "Globals\Globals.csproj", "{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalVars", "Globals\GlobalVars.csproj", "{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

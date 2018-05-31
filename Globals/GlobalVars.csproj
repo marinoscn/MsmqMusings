@@ -7,8 +7,8 @@
     <ProjectGuid>{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Globals</RootNamespace>
-    <AssemblyName>Globals</AssemblyName>
+    <RootNamespace>GlobalVars</RootNamespace>
+    <AssemblyName>GlobalVars</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Globals.cs" />
+    <Compile Include="GlobalVars.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
