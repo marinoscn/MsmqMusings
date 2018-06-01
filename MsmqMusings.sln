@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsmqServer", "MsmqServer\Ms
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalVars", "Globals\GlobalVars.csproj", "{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsmqClient", "MsmqClient\MsmqClient.csproj", "{E273C194-2433-4F18-98D8-21069B32B1EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8539C17D-88D6-4A99-BEBD-379FE23B4AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E273C194-2433-4F18-98D8-21069B32B1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E273C194-2433-4F18-98D8-21069B32B1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E273C194-2433-4F18-98D8-21069B32B1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E273C194-2433-4F18-98D8-21069B32B1EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
